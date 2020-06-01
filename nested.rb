@@ -85,8 +85,8 @@ def adding_matz
         }
      }
 
-programmer_hash << :yukihiro_matsumoto
-programmer_hash
+with_matz=programmer_hash << :yukihiro_matsumoto
+with_matz
 
 end
 
