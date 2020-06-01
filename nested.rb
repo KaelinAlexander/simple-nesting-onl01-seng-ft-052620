@@ -85,10 +85,7 @@ def adding_matz
         }
      }
 
-with_matz = programmer_hash << :yukihiro_matsumoto => {}
-with_matz
-
-end
+programmer_hash[4]="yukihiro_matsumoto"
 
 def changing_alan
 	programmer_hash = 
