@@ -86,6 +86,8 @@ def adding_matz
      }
 
 programmer_hash[4]="yukihiro_matsumoto"
+programmer_hash
+end
 
 def changing_alan
 	programmer_hash = 
